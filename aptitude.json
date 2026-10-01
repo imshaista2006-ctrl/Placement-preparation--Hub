@@ -1,0 +1,49 @@
+ {
+  "Percentage": "Percentage = (Part ÷ Whole) × 100",
+
+  "Profit": "Profit = SP − CP",
+
+  "Loss": "Loss = CP − SP",
+
+  "Profit Percentage": "Profit % = (Profit ÷ CP) × 100",
+
+  "Loss Percentage": "Loss % = (Loss ÷ CP) × 100",
+
+  "Simple Interest": "SI = (P × R × T) ÷ 100",
+
+  "Compound Interest": "CI = Amount − Principal",
+
+  "Average": "Average = Sum of Values ÷ Number of Values",
+
+  "Ratio": "Ratio compares two quantities. Example: 2:3",
+
+  "Proportion": "a:b = c:d",
+
+  "Speed": "Speed = Distance ÷ Time",
+
+  "Distance": "Distance = Speed × Time",
+
+  "Time": "Time = Distance ÷ Speed",
+
+  "Time and Work": "Work = Efficiency × Time",
+
+  "HCF": "Highest Common Factor is the greatest common divisor of numbers.",
+
+  "LCM": "Least Common Multiple is the smallest common multiple of numbers.",
+
+  "Probability": "Probability = Favorable Outcomes ÷ Total Outcomes",
+
+  "Partnership": "Share = Investment × Time",
+
+  "Area of Rectangle": "Area = Length × Breadth",
+
+  "Perimeter of Rectangle": "Perimeter = 2 × (Length + Breadth)",
+
+  "Area of Square": "Area = Side × Side",
+
+  "Perimeter of Square": "Perimeter = 4 × Side",
+
+  "Area of Circle": "Area = πr²",
+
+  "Circumference of Circle": "Circumference = 2πr"
+}

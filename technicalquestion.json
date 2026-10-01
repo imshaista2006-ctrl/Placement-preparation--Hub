@@ -1,0 +1,31 @@
+{
+  "1.What is HTML?": "HTML stands for HyperText Markup Language. It is used to create the structure of web pages.",
+
+  "2.What is CSS?": "CSS stands for Cascading Style Sheets. It is used to style and design web pages.",
+
+  "3.What is JavaScript?": "JavaScript is a programming language used to make web pages interactive.",
+
+  "4.What is Java?": "Java is an object-oriented programming language that can run on different platforms.",
+
+  "5.What is DBMS?": "DBMS stands for Database Management System. It is used to store and manage data.",
+
+  "6.What is Python?": "Python is a simple and powerful programming language used for web development, data science, automation and AI.",
+
+"7.What is SQL?": "SQL stands for Structured Query Language. It is used to store, retrieve and manage data in databases.",
+
+"8.What is Primary Key?": "A Primary Key is a field that uniquely identifies each record in a table.",
+
+"9.What is Operating System?": "An Operating System manages computer hardware, software and system resources.",
+
+"10.What is OOP?": "OOP stands for Object-Oriented Programming. It is based on classes and objects.",
+
+"11.What is an Object in Java?": "An object is an instance of a class that contains data and methods.",
+
+"12..What is a Class in Java?": "A class is a blueprint used to create objects.",
+
+"13.What is Inheritance?": "Inheritance allows one class to acquire the properties and methods of another class.",
+
+"14.What is a Function?": "A function is a block of code that performs a specific task.",
+
+"15.What is an Array?": "An array is a collection of elements stored at contiguous memory locations."
+}
